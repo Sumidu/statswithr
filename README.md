@@ -7,7 +7,7 @@ A list of R websites useful for analysis in the social sciences.
 * http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
-## Übersicht über Packages
+Übersicht über Packages
 https://www.rdocumentation.org/
 
 Cheat Sheets
@@ -22,6 +22,9 @@ http://www-bcf.usc.edu/~gareth/ISL/index.html
 Buch für Visualization in Social Sciences
 http://socviz.co/
 
+
+R-Probleme 
+https://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 
 ## Usefull Package List
 ### Basics
