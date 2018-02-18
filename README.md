@@ -1,10 +1,10 @@
 # statswithr
 A list of R websites useful for analysis in the social sciences. 
 
-https://www.statmethods.net/
-http://www.sthda.com/english
-http://rcompanion.org/handbook/
-http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+* https://www.statmethods.net/
+* http://www.sthda.com/english
+* http://rcompanion.org/handbook/
+* http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
 ## Übersicht über Packages
