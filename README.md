@@ -26,6 +26,9 @@ http://socviz.co/
 R-Probleme 
 https://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 
+Packages selbst Schreiben
+http://kbroman.org/pkg_primer/
+
 ## Usefull Package List
 ### Basics
 * tidyverse - Grundlegender "r-Dialekt" 
